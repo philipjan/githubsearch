@@ -1,4 +1,4 @@
-package com.example.githubsearch
+package com.example.githubsearch.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
